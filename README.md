@@ -1,15 +1,17 @@
 <a href="https://github.com/Yoursel71">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&background=0D111700&vCenter=true&width=600&lines=Hey%2C+I'm+Baho+%F0%9F%91%8B;Software+Engineer;Full-Stack+Developer;Embedded+Systems+Enthusiast;Always+building+something+new..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&background=0D111700&vCenter=true&width=600&lines=Hey%2C+I'm+Baho+%F0%9F%91%8B;Software+Engineer;AI+%26+Prompt+Engineering+Enthusiast;Embedded+Systems+Developer;Building+at+the+edge+of+hardware+%26+AI..." alt="Typing SVG" />
 </a>
 
 ---
 
 ### About Me
 
-I'm a software engineer who builds things that work — from low-level embedded firmware to production web platforms. I care about clean architecture, performance, and shipping real products.
+I'm a software engineer who builds things that work — from low-level embedded firmware to production web platforms. Deeply interested in **AI systems**, **prompt engineering**, and leveraging large language models to build smarter tools and workflows.
 
-- 🔧 Currently working on **e-commerce platforms** and **payment integrations**
+- 🔧 Currently working on **[BruceButBetter](https://github.com/Yoursel71/BruceButBetter)** — enhanced ESP32 multi-tool firmware
+- 🤖 Exploring **AI-assisted development**, **prompt engineering**, and **LLM integrations**
 - 📡 Passionate about **radio communication systems** and **embedded hardware**
+- 🧠 Interested in the intersection of **low-level systems** and **artificial intelligence**
 - 🎯 Focused on writing code that scales and lasts
 - 🌍 Based in Turkey
 
@@ -90,6 +92,13 @@ I'm a software engineer who builds things that work — from low-level embedded 
 #### Languages
 <img src="https://skillicons.dev/icons?i=ts,py,cpp,kotlin,js,html,css&theme=dark" />
 
+#### AI & Prompt Engineering
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Assisted_Dev-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
 #### Tools & Infrastructure
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,figma&theme=dark" />
 
@@ -126,5 +135,5 @@ I'm a software engineer who builds things that work — from low-level embedded 
 </div>
 
 <div align="center">
-  <sub>Building things that matter, one commit at a time.</sub>
+  <sub>Building at the intersection of hardware, software, and AI — one commit at a time.</sub>
 </div>
