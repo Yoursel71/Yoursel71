@@ -8,7 +8,7 @@
 
 I'm a software engineer who builds things that work — from low-level embedded firmware to production web platforms. Deeply interested in **AI systems**, **prompt engineering**, and leveraging large language models to build smarter tools and workflows.
 
-- 🔧 Currently working on **[BruceButBetter](https://github.com/Yoursel71/BruceButBetter)** — enhanced ESP32 multi-tool firmware
+- 🔧 Currently working on **[LocalRun](https://github.com/Yoursel71/LocalRun)** — enhanced ESP32 multi-tool firmware
 - 🤖 Exploring **AI-assisted development**, **prompt engineering**, and **LLM integrations**
 - 📡 Passionate about **radio communication systems** and **embedded hardware**
 - 🧠 Interested in the intersection of **low-level systems** and **artificial intelligence**
