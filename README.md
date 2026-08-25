@@ -8,11 +8,11 @@
 
 I'm a software engineer who builds things that work — from low-level embedded firmware to production web platforms. Deeply interested in **AI systems**, **prompt engineering**, and leveraging large language models to build smarter tools and workflows.
 
-- 🔧 Currently working on **[LocalRun](https://github.com/Yoursel71/LocalRun)** — Local version of Any.run
+- 🕒 Currently building **[Gelişim Takip](https://github.com/Yoursel71/developing-tracker)** — a Windows desktop app that honestly tracks time spent learning to code
+- 🕵️ Also maintaining **[LocalRun](https://github.com/Yoursel71/LocalRun)** — a local-only analysis viewer for Sysmon, Procmon, PCAP, Autoruns, Regshot and FakeNet-NG evidence
 - 🤖 Exploring **AI-assisted development**, **prompt engineering**, and **LLM integrations**
 - 📡 Passionate about **radio communication systems** and **embedded hardware**
 - 🧠 Interested in the intersection of **low-level systems** and **artificial intelligence**
-- 🎯 Focused on writing code that scales and lasts
 - 🌍 Based in Turkey
 
 ---
@@ -22,26 +22,35 @@ I'm a software engineer who builds things that work — from low-level embedded 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">BruceButBetter</h3>
+      <h3 align="center">Gelişim Takip</h3>
       <p align="center">
-        <a href="https://github.com/Yoursel71/BruceButBetter">
-          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <a href="https://github.com/Yoursel71/developing-tracker">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
         </a>
       </p>
-      <p align="center">Enhanced firmware for ESP32-based multi-tool devices. Low-level hardware interaction, RF communication protocols, and embedded system optimizations built on top of the Bruce project.</p>
+      <p align="center">A Windows desktop app that honestly measures time spent learning to code: it auto-starts when your editor or course site opens, pauses on idle, and visualizes progress with a GitHub-style heat map, streaks, and smart ETA predictions. Ships as a one-click <code>.exe</code>, backed by 200+ tests.</p>
     </td>
+    <td width="50%">
+      <h3 align="center">LocalRun</h3>
+      <p align="center">
+        <a href="https://github.com/Yoursel71/LocalRun">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">A local-only analysis viewer for malware/forensics evidence — Sysmon, Procmon, PCAP, Autoruns, Regshot and FakeNet-NG — built for offline triage without sending anything to the cloud.</p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">Telsiz Okulu</h3>
       <p align="center">
         <a href="https://github.com/Yoursel71/telsiz-okulu-android">
           <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         </a>
       </p>
-      <p align="center">A cross-platform radio communication training application. Android-native client built with Kotlin alongside a JavaScript-powered web companion for learning radio protocols and licensing.</p>
+      <p align="center">A gamified, offline-first Android app to prepare for Turkey's amateur radio (TRAC/HAREC) licensing exam — NATO alphabet, Q-codes, electronics and band theory. Built with Kotlin + Jetpack Compose.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">Modabucks & Modatepe</h3>
       <p align="center">
@@ -51,6 +60,8 @@ I'm a software engineer who builds things that work — from low-level embedded 
       </p>
       <p align="center">Full-stack e-commerce ecosystem with iyzico payment gateway integration, dynamic product management, agent-based architecture, and multiple frontend iterations refined through production feedback.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">Bobin Kardesler</h3>
       <p align="center">
@@ -60,8 +71,6 @@ I'm a software engineer who builds things that work — from low-level embedded 
       </p>
       <p align="center">A modern TypeScript web application with a polished UI, business logic layer, and production-grade deployment pipeline.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">Matematik Pusulasi</h3>
       <p align="center">
@@ -70,15 +79,6 @@ I'm a software engineer who builds things that work — from low-level embedded 
         </a>
       </p>
       <p align="center">An interactive mathematics learning platform designed to make math accessible and engaging through a clean, web-based interface.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Zombi Istilasi</h3>
-      <p align="center">
-        <a href="https://github.com/Yoursel71/zombiistilasi">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">A Python-built game featuring survival mechanics, algorithmic enemy behavior, and core game loop architecture.</p>
     </td>
   </tr>
 </table>
@@ -103,7 +103,7 @@ I'm a software engineer who builds things that work — from low-level embedded 
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,figma&theme=dark" />
 
 #### Frameworks & Platforms
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,androidstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,flask,androidstudio&theme=dark" />
 
 </div>
 
