@@ -24,4 +24,3 @@ Software engineer based in Turkey. I work on embedded firmware and web apps, and
 - **Languages:** TypeScript, Python, C++, Kotlin, JavaScript, HTML/CSS
 - **Frameworks:** Next.js, React, Node.js, Flask, Jetpack Compose
 - **Tools:** Git, Docker, Linux, VS Code, Android Studio, Figma
-- **AI:** Claude, ChatGPT
