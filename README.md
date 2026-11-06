@@ -1,6 +1,11 @@
 ![There’s more to discover.](profile-banner.png)
 
-***There’s always more to make and discover.***
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-tagline-dark.svg">
+    <img alt="“There’s always more to make and discover.”" src="profile-tagline-light.svg">
+  </picture>
+</p>
 
 # Baho
 
