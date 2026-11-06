@@ -1,3 +1,5 @@
+![There’s more to discover.](profile-banner.png)
+
 # Baho
 
 Software engineer based in Turkey. I work on embedded firmware and web apps, and lately a lot on LLM-assisted development and prompt engineering. Outside of that, I'm into amateur radio and low-level hardware.
